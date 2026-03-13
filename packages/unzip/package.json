@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "yauzl": "^2.10.0"
+    "yauzl": "^3.2.1"
   }
 }
